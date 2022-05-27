@@ -14,11 +14,11 @@ require (
 	github.com/fasthttp/router v1.3.8
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-logr/logr v1.2.0
+	github.com/go-logr/logr v1.2.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
 	github.com/google/cel-go v0.9.0
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
@@ -38,11 +38,10 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.34.0
 	github.com/sony/gobreaker v0.4.2-0.20210216022020-dd874f9dd33b
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/trusch/grpc-proxy v0.0.0-20190529073533-02b64529f274
 	github.com/valyala/fasthttp v1.31.1-0.20211216042702-258a4c17b4f4
 	go.opencensus.io v0.23.0
-	go.opentelemetry.io/otel v0.20.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/ratelimit v0.2.0
